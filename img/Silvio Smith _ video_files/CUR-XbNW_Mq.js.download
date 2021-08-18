@@ -1,4 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["DG5aOe0"]); }
-
-__d("InstantApplicationContextTokenInputCreator.entrypointutils",[],(function(a,b,c,d,e,f){"use strict";function a(a,b,c){var d=null;switch(c){case"THREAD":d={thread_id:b};break;case"STORY":d={story_token:b};break;case"GROUP":d={group_id:b};break;case"LINK":d={link_fragment:b};break;default:d=Object.freeze({});break}return{app_id:a,context_source_id:b,key:d}}f.getTokenInput=a}),66);
-__d("InstantGameEnvironmentType",["$InternalEnum"],(function(a,b,c,d,e,f){a=b("$InternalEnum")({STANDARD:"standard",COPLAY:"coplay",CANVAS:"canvas"});c=a;f["default"]=c}),66);
