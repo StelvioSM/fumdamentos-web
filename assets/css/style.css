@@ -1,4 +1,10 @@
 /*Estilos da página index.html*/
+
+body {
+   background-color: rgb(238, 245, 244)
+}
+
+/*Estilos da página index.html*/
 .center {
    text-align: center;
 }
@@ -13,6 +19,9 @@
    justify-content: center;
    align-items: center;
 }  
+
+
+
 
 #menu li {
    display: inline;
@@ -50,7 +59,7 @@
 }
 
 .mb-50{
-   margin-bottom: 50px;
+   margin-bottom: 200px;
 }
 
 
